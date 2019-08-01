@@ -1,0 +1,89 @@
+#carousel p {
+	text-align: center;
+	color: #ffef96;
+}
+
+#carousel h4 {
+	text-align: center;
+	color: #ffef96;
+}
+
+p{
+	text-align: justify;
+	color:#3e4444;
+}
+
+h2{
+    color:#034f84;
+}
+
+h2:hover{
+	color: #d64161;
+}
+
+h3{
+    color:royalblue;
+}
+
+h3:hover{
+    color:crimson;
+}
+
+h4 {
+	color: black;
+	text-align: left;
+}
+
+h5 {
+	color: #878f99
+}
+
+#divisions ul.links li a:visited {
+    color: #00FF00;
+}
+
+#divisions ul.links li a:hover {
+	color: #FF00FF;
+	font-weight: 700;
+}
+
+
+#divisions ul.links li a{
+	color: #FF0000;
+}
+
+#divisions ul.links li{
+	padding: 3px 0;
+	-webkit-transition: .5s all ease;
+	-moz-transition: .5s all ease;
+	transition: .5s all ease;
+}
+#divisions ul.links li:hover{
+	padding: 3px 0;
+	margin-left:5px;
+	font-weight:700;
+}
+
+#divisions ul.links li a i{
+	margin-right: 5px;
+}
+
+.nav a:hover {
+	font-weight:600;
+}
+
+figcaption {
+	text-align: center;
+	color: green;
+}
+
+hr {
+	border: 4px solid blue;
+}
+
+footer {
+	height: 60px;
+	background-color: black;
+	text-align:center;
+	color: white;
+}
